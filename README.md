@@ -7,3 +7,5 @@ This is a chatbot implemented using OpenAI's powerful language model backend. Th
 **Technology Used**:
 - OpenAI API: Integration with OpenAI's API for natural language processing and generation.
 - Python: Backend logic implemented in Python to interact with OpenAI's API and manage conversation flow.
+
+*Front end coming later on*
