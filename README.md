@@ -5,5 +5,5 @@ This is a chatbot implemented using OpenAI's powerful language model backend. Th
 - Contextual Responses: Maintains context throughout a conversation to provide coherent and relevant answers.
   
 **Technology Used**:
-OpenAI API: Integration with OpenAI's API for natural language processing and generation.
-Python: Backend logic implemented in Python to interact with OpenAI's API and manage conversation flow.
+- OpenAI API: Integration with OpenAI's API for natural language processing and generation.
+- Python: Backend logic implemented in Python to interact with OpenAI's API and manage conversation flow.
